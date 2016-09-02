@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LittleBoy
+  - MainCamera02
+  - ground
+  - DeadSea
+  - Poison
+  - test
+  - Gift
+  - Star
+  - Pipe
+  - GiftCube
+  - Icecream
+  - EndPoint
+  - Arrow
+  - PoinsonArrow
+  - CaveArrow
+  - CaveGround
+  - checkpoint1
+  - checkpoint2
+  - FirstMovingIsland
+  - FirstMovingId
+  - SecondMovingIslandTriger
+  - SecondMovingIsland
+  - ThirdMovingIslandTriger
+  - ThirdMovingIsland
+  - SecondMovingIslandStop
+  - TestTrigger
+  - becomeSmallerTrigger
+  - Coins
+  - LargePoisonTag
+  - welcomeText
+  - CardBox
+  - CardLevel101
+  - CardLevel103
+  - CardLevel102
+  - MissionCanvas
+  - HintCanvas
+  - LevelCard1
+  - LevelCard2
+  - LevelCard3
+  - CardLevel1
+  - CardLevel2
+  - jumptutorial
+  - rotatetutorial
+  - CoinsLevel2
+  - CardV2
+  - ScreenFader
+  - prizeHint
+  - wayToPrize
+  - PrizeCup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Shootable
+  - LightMask
+  - Invisible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

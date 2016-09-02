@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 10f5e92e22a2f404cb6d9660362eef2d
+timeCreated: 1460428430
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - restartText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - resumeText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - finalScoreText: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - resumeButton: {instanceID: 0}
+  - checkpoint1_object: {instanceID: 0}
+  - checkpoint2_object: {instanceID: 0}
+  - wall_y_min: {instanceID: 0}
+  - wall_y_max: {instanceID: 0}
+  - wall_z_min: {instanceID: 0}
+  - wall_z_max: {instanceID: 0}
+  - wall_x_min: {instanceID: 0}
+  - wall_x_max: {instanceID: 0}
+  - roomcarmera: {instanceID: 0}
+  - maincamera: {instanceID: 0}
+  - idleAnimation: {fileID: 7400000, guid: f39b1400e9461b94aa1ef06930d090b5, type: 3}
+  - walkAnimation: {fileID: 7400002, guid: f39b1400e9461b94aa1ef06930d090b5, type: 3}
+  - runAnimation: {fileID: 7400006, guid: f39b1400e9461b94aa1ef06930d090b5, type: 3}
+  - jumpPoseAnimation: {fileID: 7400008, guid: f39b1400e9461b94aa1ef06930d090b5, type: 3}
+  - triggerTest: {instanceID: 0}
+  - welcomeText: {instanceID: 0}
+  - roomgift: {instanceID: 0}
+  - rotateplatform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
